@@ -2,3 +2,7 @@ Programming languages
 Java
 JavaScript
 Python
+C#
+C++
+SQL
+ReactNative
