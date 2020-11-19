@@ -8,3 +8,5 @@ C++
 SQL
 ReactNative
 I wil check history
+inigo
+new color
